@@ -1,0 +1,15 @@
+.cardBg {
+  background-color: #eee;
+}
+
+.movieImg {
+  width: 200px;
+  height: 250px;
+  object-fit: cover;
+}
+
+.cardBody {
+  max-height: 15rem;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
